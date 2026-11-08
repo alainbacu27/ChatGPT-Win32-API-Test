@@ -1,0 +1,1 @@
+cl /nologo /EHsc /std:c++17 /W4 CombaseExample.cpp /link /OUT:CombaseExample.exe
